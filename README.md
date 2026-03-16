@@ -33,7 +33,7 @@ llm-security-gateway/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/llm-security-gateway.git
+git clone https://github.com/alirnaqvi/llm-security-gateway.git
 cd llm-security-gateway
 ```
 
